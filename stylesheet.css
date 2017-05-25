@@ -3,7 +3,7 @@
   src: url("PokemonHollow.ttf");
 }
 
-p{
+.pokemon{
   font-family: pokemon;
 }
 @font-face {
