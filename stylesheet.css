@@ -6,3 +6,7 @@
 p{
   font-family: pokemon;
 }
+@font-face {
+  font-family:street fighter;
+  src: url("PokemonHollow.ttf");
+}
