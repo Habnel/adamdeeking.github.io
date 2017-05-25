@@ -8,5 +8,8 @@ p{
 }
 @font-face {
   font-family:street fighter;
-  src: url("PokemonHollow.ttf");
+  src: url("streetfighter.ttf");
+}
+head{
+  font-family:street fighter;
 }
