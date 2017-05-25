@@ -7,9 +7,9 @@ p{
   font-family: pokemon;
 }
 @font-face {
-  font-family:street fighter;
+  font-family:streetfighter;
   src: url("streetfighter.ttf");
 }
-head{
-  font-family:street fighter;
+.street{
+  font-family:streetfighter;
 }
