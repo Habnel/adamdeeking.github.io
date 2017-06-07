@@ -3,7 +3,7 @@ $(document).ready(function(){
     alert("you clicked on an image!");
     $(document).ready(function(){
   $(p).click(function(){
-    display(hi.jpg)
+    display("hi.jpg");
   });
   
   
