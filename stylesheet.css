@@ -16,3 +16,7 @@
 body{
   background-image: url("images.jpg");
 }
+
+#hi-img{
+  opacity:0;
+}
