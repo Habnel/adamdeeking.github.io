@@ -3,6 +3,7 @@ $(document).ready(function(){
 	$("button").click(function(){
 		var name = $("imput[name=first_name]").val();
 		$("#Welcome").html(name);
+}
 
 
 
